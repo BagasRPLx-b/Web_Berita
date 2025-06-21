@@ -1,4 +1,4 @@
-import MyNavbar from "../component/navbar";
+import MyNavbar from "../component/Navbar";
 import MyFooter from "../component/Footer";
 import { Link } from "react-router-dom";
 
