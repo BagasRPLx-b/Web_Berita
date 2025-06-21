@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams, Link } from "react-router-dom";
-import MyNavbar from "../component/navbar";
+import MyNavbar from "../component/Navbar";
 import NewsData from "../data/NewsData"; 
 import MyFooter from "../component/Footer";//Sesuaikan path jika perlu/
 
