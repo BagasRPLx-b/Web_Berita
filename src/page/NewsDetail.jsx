@@ -42,7 +42,7 @@ const NewsDetail = () => {
              alt={currentNews.title}
              className="w-full h-96 object-cover rounded-md mb-2"
            />
-           <p className="text-white text-justify">{currentNews.detail}</p>
+           <p className="text-grey text-justify">{currentNews.detail}</p>
          </div>
        </div>
 
