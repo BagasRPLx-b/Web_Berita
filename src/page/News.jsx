@@ -1,5 +1,5 @@
 import NewsData from "../data/NewsData";
-import MyNavbar from "../component/navbar";
+import MyNavbar from "../component/Navbar";
 import { Link, useLocation } from "react-router-dom";
 import MyFooter from "../component/Footer";
 
